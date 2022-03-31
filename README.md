@@ -20,21 +20,12 @@ iOS Swift 공부
 | **15회** |  | Complete |  |  | **2022.** |
 
 
-</br>
-**Flashlight앱**  
-</br>
-###이승후
-</br>
-### 이승후
-</br>
-** 이승후 사랑해 **
 
-➡️ 
-</br>
-➡️ 
-</br>
-➡️ 
-</br>
 
-📲 실행 화면
-</br>
+**AutoLayoutExample**
+
+➡️ IBAction Func를 사용하여 UIButton에 색상 변경 동작 구현   
+➡️ drand48값을 UIColor로 반환하여 backgroundColor에 랜덤 색상 부여   
+
+📲 실행 화면   
+![Simulator Screen Recording - iPhone 11 - 2022-03-31 at 16 17 47](https://user-images.githubusercontent.com/92143918/161004575-b4950152-20cd-4691-8aaf-98faf8595c0e.gif)
