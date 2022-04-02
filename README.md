@@ -22,7 +22,7 @@ iOS Swift 공부
 </br>
 </br>
 
-**AutoLayoutExample**
+### **AutoLayoutExample**
 
 ➡️ IBAction Func를 사용하여 UIButton에 색상 변경 동작 구현   
 ➡️ drand48값을 UIColor로 반환하여 backgroundColor에 랜덤 색상 부여   
@@ -33,7 +33,7 @@ iOS Swift 공부
 </br>
 </br>
 
-**QuotesGenerator**
+### **QuotesGenerator**
 
 ➡️ 배열에 넣은 struct 정보(위인의 이름과 명언, 사진)들을 arc4random_uniform로 무작위로 선택해 보여줌(사진이 없는 위인은 대체사진으로 설정)        
 
