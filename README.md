@@ -6,7 +6,7 @@ iOS Swift 공부
 | **1회** | AutoLayoutExample | Complete |  |  | **2022.03.31** |
 | **2회** | QuotesGenerator | Complete |  |  | **2022.04.02** |
 | **3회** | ScreenTransitionExample | Complete |  |  | **2022.04.03** |
-| **4회** |  | Complete |  |  | **2022.** |
+| **4회** | Calculator | Complete |  |  | **2022.04.04** |
 | **5회** |  | Complete |  |  | **2022.** |
 | **6회** |  | Complete |  |  | **2022.** |
 | **7회** |  | Complete |  |  | **2022.** |
@@ -54,3 +54,13 @@ iOS Swift 공부
 
 📲 실행 화면   
 ![Simulator Screen Recording - iPhone 11 - 2022-04-03 at 16 42 50](https://user-images.githubusercontent.com/92143918/161417050-629e8134-4b86-4cdf-9642-662f21b77e83.gif)
+
+## **Calculator**.  
+
+➡️ stacView를 사용한 autoLayout 구성    
+➡️ switch문을 통한 사칙연산     
+➡️ result(Double)값이 정수일 경우 Int로 반환     
+➡️ IBInspectable
+
+📲 실행 화면   
+![Simulator Screen Recording - iPhone 11 - 2022-04-04 at 02 00 50](https://user-images.githubusercontent.com/92143918/161439304-ea092879-443f-490e-875a-458acc370f1b.gif)
