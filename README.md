@@ -19,8 +19,7 @@ iOS Swift 공부
 | **14회** |  | Complete |  |  | **2022.** |
 | **15회** |  | Complete |  |  | **2022.** |
 
-</br>
-</br>
+
 
 ## **AutoLayoutExample**
 
@@ -30,18 +29,16 @@ iOS Swift 공부
 📲 실행 화면   
 ![Simulator Screen Recording - iPhone 11 - 2022-03-31 at 16 17 47](https://user-images.githubusercontent.com/92143918/161004575-b4950152-20cd-4691-8aaf-98faf8595c0e.gif)
 
-</br>
-</br>
 
-## **QuotesGenerator**
+
+## **QuotesGenerator App**
 
 ➡️ 배열에 넣은 struct 정보(위인의 이름과 명언, 사진)들을 arc4random_uniform로 무작위로 선택해 보여줌(사진이 없는 위인은 대체사진으로 설정)        
 
 📲 실행 화면   
 ![Simulator Screen Recording - iPod touch (7th generation) - 2022-04-02 at 22 44 03](https://user-images.githubusercontent.com/92143918/161386094-b348335b-21f4-488f-8859-843e4995c8da.gif)
 
-</br>
-</br>
+
 
 ## **ScreenTransitionExample**
 
@@ -55,12 +52,27 @@ iOS Swift 공부
 📲 실행 화면   
 ![Simulator Screen Recording - iPhone 11 - 2022-04-03 at 16 42 50](https://user-images.githubusercontent.com/92143918/161417050-629e8134-4b86-4cdf-9642-662f21b77e83.gif)
 
-## **Calculator**.  
+
+
+## **Calculator App**  
 
 ➡️ stacView를 사용한 autoLayout 구성    
 ➡️ switch문을 통한 사칙연산     
 ➡️ result(Double)값이 정수일 경우 Int로 반환     
-➡️ IBInspectable
+➡️ IBInspectable를 사용해 버튼을 둥글게 만드는 코드를 작성 후, IBDesingnable로 실시간 적용
 
 📲 실행 화면   
 ![Simulator Screen Recording - iPhone 11 - 2022-04-04 at 02 00 50](https://user-images.githubusercontent.com/92143918/161439304-ea092879-443f-490e-875a-458acc370f1b.gif)
+
+
+
+## **LEDBoard App**  
+
+➡️ 1    
+➡️ 2     
+➡️ 3     
+➡️ 4
+
+⚠️ 설정 버튼을 누르면 강제종료되는 오류가 있음
+
+📲 실행 화면   
