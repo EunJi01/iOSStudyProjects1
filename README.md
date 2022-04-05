@@ -7,7 +7,7 @@ iOS Swift 공부
 | **2회** | QuotesGenerator | Complete |  |  | **2022.04.02** |
 | **3회** | ScreenTransitionExample | Complete |  |  | **2022.04.03** |
 | **4회** | Calculator | Complete |  |  | **2022.04.04** |
-| **5회** |  | Complete |  |  | **2022.** |
+| **5회** | LEDBoard | Complete |  |  | **2022.04.05** |
 | **6회** |  | Complete |  |  | **2022.** |
 | **7회** |  | Complete |  |  | **2022.** |
 | **8회** |  | Complete |  |  | **2022.** |
