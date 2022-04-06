@@ -88,14 +88,16 @@ iOS Swift 공부
 
 ## **TodoList App**  
 
-➡️ 1    
-➡️ 2     
-➡️ 3     
-➡️ userDefaults를 사용하여, 어플을 종료한 후 재실행해도 데이터가 유지됨
+➡️ tableView
+➡️ AddButton을 클릭해 할일을 리스트에 추가하고, 입력한 할일을 클릭했을 때 Checkmark가 나오도록 구현    
+➡️ EditButton을 클릭하면 항목의 재정렬과 삭제가 가능(삭제는 Edit 모드가 아닐 때, 왼쪽으로 스와이프로도 가능)      
+➡️ EditButton은 리스트에 항목이 1개 이상 등록되어 있어어야 작동     
+➡️ UserDefaults를 사용하여, 어플을 종료한 후 재실행해도 데이터가 유지됨
 
-⚠️ userDefaults가 작동하지 않음
+⚠️ userDefaults가 제대로 작동하지 않음: saveTasks메소드는 실행되지만 loadTasks메소드가 App 최초실행시에만 실행되는 것으로 확인됨  
 
-📲 실행 화면   
+📲 실행 화면
+![Simulator Screen Recording - iPhone 11 - 2022-04-06 at 18 34 18](https://user-images.githubusercontent.com/92143918/161945565-1a6a7b2b-9a1e-47d1-88a5-7fde3027bf04.gif)   
 
 </br>
 </br>
