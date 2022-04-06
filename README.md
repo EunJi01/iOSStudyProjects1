@@ -8,7 +8,7 @@ iOS Swift 공부
 | **3회** | ScreenTransitionExample | Complete |  |  | **2022.04.03** |
 | **4회** | Calculator | Complete |  |  | **2022.04.04** |
 | **5회** | LEDBoard | Complete |  |  | **2022.04.05** |
-| **6회** |  | Complete |  |  | **2022.** |
+| **6회** | TodoList | Complete |  |  | **2022.04.06** |
 | **7회** |  | Complete |  |  | **2022.** |
 | **8회** |  | Complete |  |  | **2022.** |
 | **9회** |  | Complete |  |  | **2022.** |
@@ -50,7 +50,7 @@ iOS Swift 공부
 ➡️ 각 버튼을 탭하여 다음 화면으로 넘어갈 경우, 전환된 ViewController의 nameLabel을 EunJi로 변경      
 ➡️ code로 present 버튼을 탭하여 다음 화면으로 넘어갈 경우, rootViewController의 nameLabel을 EunJi로 변경      
 
-⚠️ CodePushViewController가 동작하지 않음  
+⚠️ CodePushViewController가 작동하지 않음  
 
 📲 실행 화면   
 ![Simulator Screen Recording - iPhone 11 - 2022-04-03 at 16 42 50](https://user-images.githubusercontent.com/92143918/161417050-629e8134-4b86-4cdf-9642-662f21b77e83.gif)
@@ -79,6 +79,36 @@ iOS Swift 공부
 ➡️ 4
 
 ⚠️ 설정 버튼을 누르면 강제종료되는 오류가 있음
+
+📲 실행 화면   
+
+</br>
+</br>
+</br>
+
+## **TodoList App**  
+
+➡️ 1    
+➡️ 2     
+➡️ 3     
+➡️ userDefaults를 사용하여, 어플을 종료한 후 재실행해도 데이터가 유지됨
+
+⚠️ userDefaults가 작동하지 않음
+
+📲 실행 화면   
+
+</br>
+</br>
+</br>
+
+## **11111 App**  
+
+➡️ 1    
+➡️ 2     
+➡️ 3     
+➡️ 4
+
+⚠️ userDefaults
 
 📲 실행 화면   
 
