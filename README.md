@@ -9,7 +9,7 @@ iOS Swift 공부
 | **4회** | Calculator | Complete |  |  | **2022.04.04** |
 | **5회** | LEDBoard | Complete |  |  | **2022.04.05** |
 | **6회** | TodoList | Complete |  |  | **2022.04.06** |
-| **7회** |  | Complete |  |  | **2022.** |
+| **7회** | Diary | Complete |  |  | **2022.04.07** |
 | **8회** |  | Complete |  |  | **2022.** |
 | **9회** |  | Complete |  |  | **2022.** |
 | **10회** |  | Complete |  |  | **2022.** |
@@ -88,7 +88,7 @@ iOS Swift 공부
 
 ## **TodoList App**  
 
-➡️ tableView
+➡️ tableView를 사용하여 구현 
 ➡️ AddButton을 클릭해 할일을 리스트에 추가하고, 입력한 할일을 클릭했을 때 Checkmark가 나오도록 구현    
 ➡️ EditButton을 클릭하면 항목의 재정렬과 삭제가 가능(삭제는 Edit 모드가 아닐 때, 왼쪽으로 스와이프로도 가능)      
 ➡️ EditButton은 리스트에 항목이 1개 이상 등록되어 있어어야 작동     
@@ -103,12 +103,12 @@ iOS Swift 공부
 </br>
 </br>
 
-## **11111 App**  
+## **Diary App**  
 
-➡️ 1    
-➡️ 2     
-➡️ 3     
-➡️ 4
+➡️ UIDatePicker를 이용한 날짜 선택 기능 구현    
+➡️ DateFormatter를 이용한 날짜 표기       
+➡️ touchesBegan 메소드로 빈 화면 터치 시 키보드와 datePickerr를 사라지게 함         
+➡️ addTarget메소드를 이용하여 모든 항목이 입력되었을 때에만 등록 버튼 활성화  
 
 ⚠️ userDefaults
 
