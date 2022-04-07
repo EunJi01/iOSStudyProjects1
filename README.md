@@ -8,8 +8,8 @@ iOS Swift 공부
 | **3회** | ScreenTransitionExample | Complete |  |  | **2022.04.03** |
 | **4회** | Calculator | Complete |  |  | **2022.04.04** |
 | **5회** | LEDBoard | Complete |  |  | **2022.04.05** |
-| **6회** | TodoList | Complete |  |  | **2022.04.06** |
-| **7회** | Diary | Complete |  |  | **2022.04.07** |
+| **6회** | TodoList | Complete |  |  | **2022.04.07** |
+| **7회** | Diary | Complete |  |  | **2022.04.08** |
 | **8회** |  | Complete |  |  | **2022.** |
 | **9회** |  | Complete |  |  | **2022.** |
 | **10회** |  | Complete |  |  | **2022.** |
