@@ -88,7 +88,7 @@ iOS Swift 공부
 
 ## **TodoList App**  
 
-➡️ tableView를 사용하여 구현 
+➡️ tableView를 사용하여 구현    
 ➡️ AddButton을 클릭해 할일을 리스트에 추가하고, 입력한 할일을 클릭했을 때 Checkmark가 나오도록 구현    
 ➡️ EditButton을 클릭하면 항목의 재정렬과 삭제가 가능(삭제는 Edit 모드가 아닐 때, 왼쪽으로 스와이프로도 가능)      
 ➡️ EditButton은 리스트에 항목이 1개 이상 등록되어 있어어야 작동     
@@ -110,7 +110,7 @@ iOS Swift 공부
 ➡️ touchesBegan 메소드로 빈 화면 터치 시 키보드와 datePickerr를 사라지게 함         
 ➡️ addTarget메소드를 이용하여 모든 항목이 입력되었을 때에만 등록 버튼 활성화  
 
-⚠️ userDefaults
+⚠️ 
 
 📲 실행 화면   
 
