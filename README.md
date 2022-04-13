@@ -109,6 +109,8 @@ iOS Swift 공부
 ➡️ DateFormatter를 이용한 날짜 표기       
 ➡️ touchesBegan 메소드로 빈 화면 터치 시 키보드와 datePickerr를 사라지게 함         
 ➡️ addTarget메소드를 이용하여 모든 항목이 입력되었을 때에만 등록 버튼 활성화  
+➡️ UserDefaults를 사용해 앱을 종료 후 재실행해도 데이터가 사라지지 않게 함  
+➡️ 일기를 최신순으로 정렬  
 
 ⚠️ 
 
