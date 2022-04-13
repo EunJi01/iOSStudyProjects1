@@ -9,7 +9,7 @@ iOS Swift 공부
 | **4회** | Calculator | Complete |  |  | **2022.04.04** |
 | **5회** | LEDBoard | Complete |  |  | **2022.04.05** |
 | **6회** | TodoList | Complete |  |  | **2022.04.07** |
-| **7회** | Diary | Complete |  |  | **2022.04.08** |
+| **7회** | Diary | Complete |  |  | **2022.04.13** |
 | **8회** |  | Complete |  |  | **2022.** |
 | **9회** |  | Complete |  |  | **2022.** |
 | **10회** |  | Complete |  |  | **2022.** |
