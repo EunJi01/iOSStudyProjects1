@@ -115,8 +115,8 @@ iOS Swift 공부
 ➡️ NotificationCenter를 이용한 일기 수정 기능 구현  
 ➡️ 즐겨찾기 기능 구현
 
-⚠️ 일기를 수정한 후 DiaryDetailView에는 수정된 내용이 표시되지만 Collection View에서는 수정 전 내용이 표시됨   
-⚠️ 일기를 등록하면 동일한 일기가 한개 더 등록되는 오류가 있음   
+⚠️ 일기를 수정한 후 DiaryDetailView에는 수정된 내용이 표시되지만 Collection View에서는 수정 전 내용이 표시되는 오류가 있음   
+⚠️ 즐겨찾기를 두번 눌러야 작동하는 오류가 있음   
 
 📲 실행 화면   
 
