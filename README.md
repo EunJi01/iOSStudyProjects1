@@ -113,10 +113,14 @@ iOS Swift 공부
 ➡️ 새로운 일기를 작성하면 자동으로 최신순으로 정렬  
 ➡️ 일기장 목록에서 일기 삭제 기능 구현     
 ➡️ NotificationCenter를 이용한 일기 수정 기능 구현  
-➡️ 즐겨찾기 기능 구현
+➡️ 즐겨찾기 기능 구현  
 
-⚠️ 일기를 수정한 후 DiaryDetailView에는 수정된 내용이 표시되지만 Collection View에서는 수정 전 내용이 표시되는 오류가 있음   
-⚠️ 즐겨찾기를 두번 눌러야 작동하는 오류가 있음   
+✅ 일기를 삭제할 경우 Fatal error가 발생하며 종료됨 -> viewController의 indexPath값과 starViewController의 indexPath값이 일치하지 않아서 일어난 오류로, ndexPath를 이용해 등록/수정하는 방법에서 uuidString을 이용해 고유한 id를 부여하는 방법으로 변경하여 해결하였음    
+✅ 일기를 등록하면 동일한 일기가 하나 더 등록되는 오류가 있음 -> uuidString을 사용하기 위해 코드를 수정하는 과정에서 해결하였음    
+✅ 일기를 수정해도 DiaryDetailView와 Collection View에서는 수정 전 내용이 표시되는 오류가 있음 -> uuidString을 사용하기 위해 코드를 수정하는 과정에서 해결하였음    
+
+⚠️ 즐겨찾기를 두번 눌러야 작동하거나, 동일한 일기가 즐겨찾기에 여러개 추가되는 오류가 있음   
+
 
 📲 실행 화면   
 
