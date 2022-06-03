@@ -95,7 +95,7 @@ iOS Swift 공부
 ➡️ EditButton은 리스트에 항목이 1개 이상 등록되어 있어어야 작동     
 ➡️ UserDefaults를 사용하여, 어플을 종료한 후 재실행해도 데이터가 유지됨
 
-✅ userDefaults가 제대로 작동하지 않음: saveTasks메소드는 실행되지만 loadTasks메소드가 App 최초실행시에만 실행되는 것으로 확인됨 -> [UserDefaults issue](https://github.com/EunJi01/iosStudy/issues/1#issue-1259566597)</br>     
+✅ userDefaults가 제대로 작동하지 않음: saveTasks메소드는 실행되지만 loadTasks메소드가 App 최초실행시에만 실행되는 것으로 확인됨 -> [UserDefaults issue](=(https://github.com/EunJi01/iosStudy/issues/4)</br>     
 
 📲 실행 화면  
 ![Simulator Screen Recording - iPhone 11 - 2022-04-06 at 18 34 18](https://user-images.githubusercontent.com/92143918/161945565-1a6a7b2b-9a1e-47d1-88a5-7fde3027bf04.gif)   
@@ -148,6 +148,5 @@ iOS Swift 공부
 </br>
 
 ## ISSUES
-   - [버튼관련issue](https://github.com/EunJi01/iosStudy/issues/2#issue-1259570126)</br>
-   - [UserDefaults issue](https://github.com/EunJi01/iosStudy/issues/1#issue-1259566597)</br>
+   - [UserDefaults issue](https://github.com/EunJi01/iosStudy/issues/4)</br>
    - [버튼 강제종료 issue](https://github.com/EunJi01/iosStudy/issues/3)</br>
