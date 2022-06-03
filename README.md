@@ -147,5 +147,5 @@ iOS Swift 공부
 </br>
 
 ## ISSUES
-   - https://github.com/EunJi01/iosStudy/issues/2#issue-1259570126
+   -[이슈1](https://github.com/EunJi01/iosStudy/issues/2#issue-1259570126)
    - https://github.com/EunJi01/iosStudy/issues/1#issue-1259566597
