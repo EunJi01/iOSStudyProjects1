@@ -48,7 +48,7 @@
         <!--설정-->
         <scene sceneID="7D9-ck-UCr">
             <objects>
-                <viewController id="otf-am-CIQ" customClass="SetitngViewController" customModule="LEDBoard" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="otf-am-CIQ" customClass="SettingViewController" customModule="LEDBoard" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="UZ1-Zj-5Uv">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -56,7 +56,7 @@
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="top" spacing="15" translatesAutoresizingMaskIntoConstraints="NO" id="DTw-YC-JPV">
                                 <rect key="frame" x="24" y="112" width="366" height="69.5"/>
                                 <subviews>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="전강판에 표시할 글자" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Vah-cD-C3p">
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="전광판에 표시할 글자" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Vah-cD-C3p">
                                         <rect key="frame" x="0.0" y="0.0" width="141.5" height="20.5"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                         <nil key="textColor"/>
@@ -179,13 +179,13 @@
                     </view>
                     <navigationItem key="navigationItem" title="설정" id="hpj-bd-Aw2"/>
                     <connections>
-                        <outlet property="blackButton" destination="kYI-0m-LON" id="e6l-Vy-03q"/>
-                        <outlet property="blueButton" destination="DeU-1o-TSR" id="2nd-nA-MHA"/>
-                        <outlet property="greenButton" destination="YCY-4b-QaL" id="caN-bE-jDt"/>
-                        <outlet property="orangeButton" destination="qIJ-wG-P6z" id="RCV-nB-9hB"/>
-                        <outlet property="purpleButton" destination="eDf-nH-DXA" id="Xx0-hE-Kd3"/>
-                        <outlet property="textField" destination="93N-Bs-4b6" id="TaI-HJ-aWK"/>
-                        <outlet property="yellowButton" destination="Xnj-Rs-PQY" id="WtI-2f-y0S"/>
+                        <outlet property="blackButton" destination="kYI-0m-LON" id="2QW-Jw-LGW"/>
+                        <outlet property="blueButton" destination="DeU-1o-TSR" id="9ar-yV-yuo"/>
+                        <outlet property="greenButton" destination="YCY-4b-QaL" id="bTc-aW-zJ5"/>
+                        <outlet property="orangeButton" destination="qIJ-wG-P6z" id="Pvu-Hc-wA7"/>
+                        <outlet property="purpleButton" destination="eDf-nH-DXA" id="Psw-AH-8xA"/>
+                        <outlet property="textField" destination="93N-Bs-4b6" id="Ygo-9C-gi5"/>
+                        <outlet property="yellowButton" destination="Xnj-Rs-PQY" id="Stk-v2-sns"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4rY-Ya-os4" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>

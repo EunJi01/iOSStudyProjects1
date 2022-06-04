@@ -14,14 +14,12 @@ protocol LEDBoardSettingDelegate: AnyObject {
 class SettingViewController: UIViewController {
 
     @IBOutlet weak var textField: UITextField!
-    
     @IBOutlet weak var yellowButton: UIButton!
     @IBOutlet weak var purpleButton: UIButton!
     @IBOutlet weak var greenButton: UIButton!
-    
     @IBOutlet weak var blackButton: UIButton!
-    @IBOutlet weak var blueButton: UIButton!
     @IBOutlet weak var orangeButton: UIButton!
+    @IBOutlet weak var blueButton: UIButton!
     
     weak var delegate: LEDBoardSettingDelegate?
     
