@@ -72,15 +72,16 @@ iOS Swift 공부
 </br>
 
 ## **LEDBoard App**  
+     
+➡️ 설정에서 textField에 입력한 텍스트를 메인화면의 Label로 보여줌     
+➡️ 설정에서 배경색과 글자색을 선택했을 경우 alpha값을 높여주어 선택되었다는 것을 명시함        
 
-➡️ 1    
-➡️ 2     
-➡️ 3     
-➡️ 4
+✅ 설정 버튼을 누르면 강제종료되는 오류가 있음 -> [버튼 강제종료 issue](https://github.com/EunJi01/iosStudy/issues/3)</br>
 
-⚠️ 설정 버튼을 누르면 강제종료되는 오류가 있음
+⚠️ 메인화면의 Label에 보여줄 수 있는 글자 수를 넘어가면 잘리는 현상
 
 📲 실행 화면   
+![Simulator Screen Recording - iPhone 12 - 2022-06-03 at 18 02 45](https://user-images.githubusercontent.com/92143918/171823979-df51b159-3ee6-47f0-b251-95a7a2ea298c.gif)
 
 </br>
 </br>
@@ -94,7 +95,7 @@ iOS Swift 공부
 ➡️ EditButton은 리스트에 항목이 1개 이상 등록되어 있어어야 작동     
 ➡️ UserDefaults를 사용하여, 어플을 종료한 후 재실행해도 데이터가 유지됨
 
-⚠️ userDefaults가 제대로 작동하지 않음: saveTasks메소드는 실행되지만 loadTasks메소드가 App 최초실행시에만 실행되는 것으로 확인됨   
+✅ userDefaults가 제대로 작동하지 않음: saveTasks메소드는 실행되지만 loadTasks메소드가 App 최초실행시에만 실행되는 것으로 확인됨 -> [UserDefaults issue](https://github.com/EunJi01/iosStudy/issues/4)</br>
 
 📲 실행 화면  
 ![Simulator Screen Recording - iPhone 11 - 2022-04-06 at 18 34 18](https://user-images.githubusercontent.com/92143918/161945565-1a6a7b2b-9a1e-47d1-88a5-7fde3027bf04.gif)   
@@ -147,5 +148,5 @@ iOS Swift 공부
 </br>
 
 ## ISSUES
-   - https://github.com/EunJi01/iosStudy/issues/2#issue-1259570126
-   - https://github.com/EunJi01/iosStudy/issues/1#issue-1259566597
+   - [UserDefaults issue](https://github.com/EunJi01/iosStudy/issues/4)</br>
+   - [버튼 강제종료 issue](https://github.com/EunJi01/iosStudy/issues/3)</br>
